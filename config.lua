@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '238633280:AAGxDljlXQjScSH9mlKyVWRWRe09DszGZ70',
 	google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
@@ -14,8 +14,8 @@ return {
 	lang = 'en',
 	-- If you change this, make sure you also modify launch-tg.sh.
 	cli_port = 4567,
-	admin = 00000000,
-	admin_name = 'John Smith',
+	admin = 147237496,
+	admin_name = 'Mohammad NBG',
 	log_chat = nil,
 	about_text = [[
 I am otouto, the plugin-wielding, multi-purpose Telegram bot.
@@ -66,7 +66,7 @@ Send /help to get started.
 			not_mod = 'This command must be run by a moderator.',
 			not_admin = 'This command must be run by an administrator.',
 		},
-		admin_group = -00000000,
+		admin_group = -147237496,
 		realm_name = 'My Realm',
 		antisquig = false
 	},
